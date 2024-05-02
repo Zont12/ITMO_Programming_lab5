@@ -1,0 +1,41 @@
+[
+  {
+    "id": 3,
+    "name": "assd{},",
+    "coordinates": {
+      "x": 1212,
+      "y": 212.0
+    },
+    "creationDate": "2024-04-18T13:13:12.881567",
+    "enginePower": 333,
+    "numberOfWheels": -333,
+    "capacity": 33,
+    "fuelType": "PLASMA"
+  },
+  {
+    "id": 4,
+    "name": "daf\\",
+    "coordinates": {
+      "x": 132,
+      "y": 123.0
+    },
+    "creationDate": "2024-05-02T11:45:50.718825",
+    "enginePower": 13,
+    "numberOfWheels": 123,
+    "capacity": 123,
+    "fuelType": "PLASMA"
+  },
+  {
+    "id": 1,
+    "name": "sffds",
+    "coordinates": {
+      "x": 123,
+      "y": 123.0
+    },
+    "creationDate": "2024-04-18T12:25:01.718352",
+    "enginePower": 123,
+    "numberOfWheels": 132,
+    "capacity": 123123,
+    "fuelType": "PLASMA"
+  }
+]

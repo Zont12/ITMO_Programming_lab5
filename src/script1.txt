@@ -1,0 +1,10 @@
+add
+dfsa
+123
+213
+123
+123
+123
+yes
+PLASMA
+execute_script script1.txt
